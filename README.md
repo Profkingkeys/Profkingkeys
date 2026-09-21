@@ -1,70 +1,75 @@
+![Kingsley Umoh — useful AI, thoughtful software, measurable progress](assets/profile-banner.svg)
+
 # Kingsley Umoh
 
-### AI Product Engineer · Full-Stack Developer · Simulation Builder · Prompt Engineer · Founder · Pharmacy Student
+**AI product engineer · Full-stack developer · PharmWeb3 founder · Pharmacy student**
 
-I build inspectable software around difficult problems in healthcare, education, AI safety, automation, and emerging technology. My strongest work sits where domain knowledge meets product engineering: AI systems with permission boundaries, 3D learning simulations, multi-tenant APIs, mobile bridges, data infrastructure, and measurable evaluation.
+I build software around problems in healthcare, education and everyday work. My focus is practical: turn a difficult question into a useful product, make its behavior understandable, and show the evidence behind the result.
 
-**Current thesis:** advanced AI becomes valuable when it is connected to a real problem, constrained by evidence and policy, and designed so people can understand what it did.
+This is also a place to learn. Explore a game, run an engineering lab, or use a guide to build something of your own.
 
-[Portfolio](https://pharmweb3.com/portfolio) · [Flagship engineering lab](https://github.com/Profkingkeys/PharmWeb3) · [AI field guide](https://github.com/Profkingkeys/Ai-ebooks) · [Simulation program](https://github.com/Profkingkeys/Simulation-Games)
+[Portfolio](https://pharmweb3.com/portfolio) · [X / Twitter](https://x.com/Profkingkeys) · [LinkedIn](https://www.linkedin.com/in/prof-king-keys-110a24229)
 
-## Building now
+## Start here
 
-| Product | Problem | System | Proof |
-|---|---|---|---|
-| [Pharma Simulation](https://github.com/Profkingkeys/Pharma-Simulation) | Pharmacy learners need safe practice before real preparation | Three.js extemporaneous-dispensing game with a deterministic state engine | playable loop, tests, CI, safety boundaries |
-| [KidSim](https://github.com/Profkingkeys/Kid-Simulation) | Health education is often abstract and forgettable | 3D healthy-home campaign with age-appropriate decisions | three missions, tests, CI, privacy principles |
-| [PharmWeb3](https://github.com/Profkingkeys/PharmWeb3) | Healthcare access and AI workflows need accountable infrastructure | AI, SaaS, paper-trading, Android, MySQL, and OTLP engineering labs | runnable demos, contracts, evaluation, telemetry |
-| [AI: The New Operating Layer](https://github.com/Profkingkeys/Ai-ebooks) | People use AI without seeing the system or failure surface | technical field guide across security, medicine, pharmacy, law, economy, and building | 12 chapters, labs, evidence method, publishing CI |
+### Learn to build with AI
 
-## Engineering capabilities
+[**The Practical AI Library →**](https://github.com/Profkingkeys/Ai-ebooks)
 
-| Capability | Technologies and practices |
-|---|---|
-| **AI systems** | agents, tool calling, prompt engineering, structured outputs, provider evaluation, retrieval patterns, human-in-the-loop workflows |
-| **AI safety and security** | prompt-injection threat models, scoped tools, authorization gates, evidence boundaries, audit events, model-output validation |
-| **Full stack** | JavaScript, Node.js, Express, Python, FastAPI, REST, OpenAPI, authentication, Socket.IO, Netlify Functions |
-| **3D and simulation** | Three.js, WebGL, game-state machines, scenario design, learning feedback, renderer-independent domain logic |
-| **Mobile** | Android, Kotlin, Java, WebView, JavaScript/native bridges, instrumentation-test architecture |
-| **Data** | MySQL, MongoDB, Mongoose, Supabase, relational modeling, tenant isolation |
-| **Platform engineering** | Docker, GitHub Actions, GitHub Pages, automated tests, OTLP/OpenTelemetry concepts, structured telemetry |
-| **Web3** | Solana-oriented architecture, token metadata, IPFS, wallets, reward-system concepts |
-| **Product leadership** | problem discovery, system architecture, technical writing, safety-by-design, roadmaps, founder-led execution |
+32 practical guides across coding, data analysis, healthcare, creative work, business and advanced AI research. Includes setup, model selection, worked exercises, sources and an offline reader.
 
-**Exploring next:** Google Filament for native high-fidelity simulation rendering, privacy-preserving learning analytics, and AI-assisted scenario adaptation. Exploration is listed separately from proven implementation.
+[Download the reader](https://github.com/Profkingkeys/Ai-ebooks/releases/latest/download/AI-Library.html) · [Data Analysis with AI](https://github.com/Profkingkeys/Ai-ebooks/blob/main/chapters/32-data-analysis-with-ai.md) · [Code across the stack](https://github.com/Profkingkeys/Ai-ebooks/blob/main/chapters/09-vibecoding.md)
 
-## How I lead and build
+### Practice in a 3D world
 
-```mermaid
-flowchart LR
-    P[Identify a costly gap] --> U[Understand the user]
-    U --> C[Define constraints]
-    C --> B[Build a testable system]
-    B --> E[Collect evidence]
-    E --> R[Review risk and outcomes]
-    R --> P
-```
+[**Pharma Simulation →**](https://github.com/Profkingkeys/Pharma-Simulation)
 
-- Start with a concrete user decision, not a technology trend.
-- Separate model output from authorization and real-world action.
-- Make core rules deterministic, testable, and observable.
-- Label prototypes, research builds, and validated systems honestly.
-- Treat privacy, accessibility, safety, and documentation as product work.
-- Invite domain experts into the review loop early.
+A complete browser campaign covering fictional suspension, ointment and solution dispensing workflows. A furnished lab, visible decisions, feedback, retry and independent-release checks. An educational prototype awaiting pharmacy/curriculum validation.
 
-Read the longer [leadership principles](LEADERSHIP.md), [portfolio evidence map](PORTFOLIO.md), and [stack taxonomy](STACK.md).
+[Download the offline game](https://github.com/Profkingkeys/Pharma-Simulation/releases/latest/download/Pharma-Simulation.html)
 
-## Selected engineering evidence
+[**KidSim →**](https://github.com/Profkingkeys/Kid-Simulation)
 
-[![Pharma Simulation CI](https://github.com/Profkingkeys/Pharma-Simulation/actions/workflows/ci.yml/badge.svg)](https://github.com/Profkingkeys/Pharma-Simulation/actions/workflows/ci.yml)
-[![KidSim CI](https://github.com/Profkingkeys/Kid-Simulation/actions/workflows/ci.yml/badge.svg)](https://github.com/Profkingkeys/Kid-Simulation/actions/workflows/ci.yml)
-[![AI Ebooks quality](https://github.com/Profkingkeys/Ai-ebooks/actions/workflows/book-quality.yml/badge.svg)](https://github.com/Profkingkeys/Ai-ebooks/actions/workflows/book-quality.yml)
-[![PharmWeb3 CI](https://github.com/Profkingkeys/PharmWeb3/actions/workflows/ci.yml/badge.svg)](https://github.com/Profkingkeys/PharmWeb3/actions/workflows/ci.yml)
+A 3D home adventure with five healthy-habit missions: handwashing, medicine safety, cough care, safe drinking water and hot cookware. Automatic character movement, a timed handwashing routine and gentle retries. No account or tracking.
 
-Financial systems in this portfolio default to paper or sandbox execution. Healthcare work preserves evidence, professional review, and human accountability. Simulation content is clearly labeled when it has not yet been curriculum-validated.
+[Download the offline game](https://github.com/Profkingkeys/Kid-Simulation/releases/latest/download/Kid-Simulation.html) · [Explore the simulation collection](https://github.com/Profkingkeys/Simulation-Games)
 
-## Open to
+### Inspect the engineering
 
-AI product engineering, full-stack and platform roles, healthcare technology, learning simulation, technical collaborations, research tooling, and founder conversations around important problems worth solving.
+[**PharmWeb3 →**](https://github.com/Profkingkeys/PharmWeb3)
 
-> Find the overlooked problem. Build the system. Make the evidence visible.
+Runnable labs for AI tool routing, SaaS boundaries, MySQL, paper-trading research, telemetry and Android. Source, tests and CI make the implementation reviewable. These are engineering demonstrations, not claims of production scale or clinical deployment.
+
+[Run the labs](https://github.com/Profkingkeys/PharmWeb3#run-the-labs) · [Build and APK evidence](https://github.com/Profkingkeys/PharmWeb3/actions/workflows/ci.yml)
+
+## How I build and lead
+
+1. **Understand the problem.** Identify the user, the current workaround and the cost of getting it wrong.
+2. **Ship a complete small loop.** Make the main task usable before expanding the feature list.
+3. **Make evidence visible.** Preserve sources, tests, limitations and a reproducible demonstration.
+4. **Improve with others.** Invite users and domain experts to challenge assumptions and guide the next release.
+
+[Leadership principles](LEADERSHIP.md) · [Portfolio evidence](PORTFOLIO.md) · [Technology map](STACK.md)
+
+## Technologies in this portfolio
+
+**Web & 3D:** HTML, CSS, JavaScript, Node.js, Three.js, WebGL, responsive interfaces and explicit game-state models.
+
+**AI & data:** tool interfaces, model evaluation patterns, Python data validation, MySQL, source-grounded workflows and structured telemetry.
+
+**Mobile & delivery:** Kotlin, Java, Android WebView, Gradle, emulator checks, GitHub Actions and static/offline publishing.
+
+**Learning examples:** Rust validation, Solidity contracts and cross-stack development guides. **Research direction:** Filament rendering, biomedical evidence tools and better evaluation of advanced AI. These directions are distinct from shipped features.
+
+## Current checks
+
+[![Pharma Simulation](https://github.com/Profkingkeys/Pharma-Simulation/actions/workflows/ci.yml/badge.svg)](https://github.com/Profkingkeys/Pharma-Simulation/actions/workflows/ci.yml)
+[![KidSim](https://github.com/Profkingkeys/Kid-Simulation/actions/workflows/ci.yml/badge.svg)](https://github.com/Profkingkeys/Kid-Simulation/actions/workflows/ci.yml)
+[![AI Library](https://github.com/Profkingkeys/Ai-ebooks/actions/workflows/book-quality.yml/badge.svg)](https://github.com/Profkingkeys/Ai-ebooks/actions/workflows/book-quality.yml)
+[![PharmWeb3](https://github.com/Profkingkeys/PharmWeb3/actions/workflows/ci.yml/badge.svg)](https://github.com/Profkingkeys/PharmWeb3/actions/workflows/ci.yml)
+
+## Collaborate
+
+Open to software roles, healthcare and education projects, research tooling, technical writing, and thoughtful founder collaborations. Contributors can help with accessibility, curriculum review, scenario design, source verification and reproducible examples.
+
+**Find an overlooked problem. Build something useful. Let the evidence speak.**
