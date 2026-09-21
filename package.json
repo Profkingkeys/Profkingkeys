@@ -1,0 +1,12 @@
+{
+  "name": "profkingkeys-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/validate-profile.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
