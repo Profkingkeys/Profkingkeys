@@ -4,19 +4,19 @@
 
 I build practical software where **AI, healthcare, product engineering, mobile systems and emerging technology** meet.
 
-My main product direction is **PharmWeb3** — a healthcare technology venture exploring AI-assisted healthcare navigation, pharmacist handoff, health education, financial-support workflows and carefully scoped Web3 infrastructure.
+My main product direction is **PharmWeb3** - a healthcare technology venture exploring AI-assisted healthcare navigation, pharmacist handoff, health education, financial-support workflows and carefully scoped Web3 infrastructure.
 
 ## What I build
 
 | Area | Focus |
 |---|---|
-| **AI Engineering** | Agents, tool calling, prompt engineering, structured outputs, model routing, AI workflows |
+| **AI Engineering** | Agents, tool calling, prompt engineering, structured outputs, provider evaluation, AI workflows |
 | **Full Stack** | JavaScript, Node.js, Express, Python, FastAPI, REST APIs |
-| **SaaS** | Multi-tenant concepts, authentication, APIs, product architecture |
+| **SaaS** | Multi-tenant architecture, authentication, API contracts, product systems |
 | **Mobile** | Android, Kotlin, Java, WebView, JavaScript/native bridges |
 | **Data** | MySQL, MongoDB, Mongoose, Supabase, relational schemas |
 | **Web3** | Solana-oriented systems, token metadata, IPFS, wallet workflows |
-| **Observability** | Telemetry, traces, structured events, execution monitoring |
+| **Observability** | OTLP traces, telemetry, structured events, execution monitoring |
 | **Research** | AI-assisted literature, evidence organization, reproducible workflows |
 
 ## Featured work
@@ -24,30 +24,34 @@ My main product direction is **PharmWeb3** — a healthcare technology venture e
 ### 🧬 PharmWeb3
 **AI × Healthcare × Web3**
 
-Healthcare product architecture, AI workflows, Web3 infrastructure and runnable engineering labs.
+Healthcare product architecture, AI workflows, Web3 infrastructure and production-oriented engineering labs.
 
-→ **[View PharmWeb3](https://github.com/Profkingkeys/PharmWeb3)**
+→ [View PharmWeb3](https://github.com/Profkingkeys/PharmWeb3)
+
+### 📚 AI: The New Operating Layer
+A technical AI ebook series covering AI history, AI security, defending against AI, medicine, pharmacy, law, the economy, vibecoding, debugging, new product creation and possible AI futures.
+
+→ [Read the AI Ebooks](https://github.com/Profkingkeys/Ai-ebooks)
 
 ### 🩺 PharmaCare
 Healthcare-focused responsive frontend engineering.
 
-→ **[View PharmaCare](https://github.com/Profkingkeys/PharmaCare)**
+→ [View PharmaCare](https://github.com/Profkingkeys/PharmaCare)
 
 ### 📱 PW3QA
 Hybrid Android/WebView integration with JavaScript-to-native communication.
 
-→ **[View PW3QA](https://github.com/Profkingkeys/PW3QA)**
+→ [View PW3QA](https://github.com/Profkingkeys/PW3QA)
 
 ### ♟ Chess Game
 Interactive browser application with stateful game/training flows.
 
-→ **[View Chess Game](https://github.com/Profkingkeys/Chess-Game-)**
+→ [View Chess Game](https://github.com/Profkingkeys/Chess-Game-)
 
 ## Current engineering direction
 
 I am building systems around this model:
 
-```text
 Product problem
       ↓
 User workflow
@@ -63,27 +67,19 @@ Mobile / Web3
 Telemetry
       ↓
 Measured iteration
-```
 
-The GitHub portfolio includes runnable labs for **AI agents, crypto arbitrage research, forex AI, SaaS APIs, MySQL, telemetry and Android/WebView**.
+The GitHub portfolio includes runnable labs for **AI agents, provider evaluation, crypto arbitrage research, forex AI, tenant-aware SaaS, MySQL, OTLP telemetry and Android/WebView**.
 
 Financial automation defaults to paper/sandbox execution. Healthcare and biomedical systems keep human review and evidence boundaries explicit.
 
 ## Portfolio
 
-🌐 **[pharmweb3.com/portfolio](https://pharmweb3.com/portfolio)**
+🌐 [pharmweb3.com/portfolio](https://pharmweb3.com/portfolio)
 
-🔬 **[PharmWeb3 Engineering Repository](https://github.com/Profkingkeys/PharmWeb3)**
+🔬 [PharmWeb3 Engineering Repository](https://github.com/Profkingkeys/PharmWeb3)
 
-💻 **[All GitHub Projects](https://github.com/Profkingkeys)**
+📚 [AI Ebooks](https://github.com/Profkingkeys/Ai-ebooks)
 
-## Currently building toward
-
-- AI-native SaaS products
-- agentic software systems
-- intelligent healthcare infrastructure
-- mobile/web hybrid applications
-- measurable automation systems
-- research tooling for biomedical evidence workflows
+💻 [All GitHub Projects](https://github.com/Profkingkeys)
 
 > **Build the product. Make the system inspectable. Let the evidence speak.**
