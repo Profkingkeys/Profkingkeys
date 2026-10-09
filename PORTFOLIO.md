@@ -2,6 +2,7 @@
 
 | Project | What a reviewer can inspect | Current scope |
 |---|---|---|
+| [Rank Raid](https://rankraid.world/) | Playable 3D Mars leaderboard, global and category towers, add/raid/fortify/upgrade interactions, company outbound-click statistics | Live browser game for startup and product discovery; no signup required to explore |
 | [Pharma Simulation](https://github.com/Profkingkeys/Pharma-Simulation) | Three scenario workflows, domain tests, offline release, teacher notes | Playable educational prototype; not clinically or curriculum validated |
 | [KidSim](https://github.com/Profkingkeys/Kid-Simulation) | Five home missions, timed washing, tests, offline release | Playable educational prototype; learning efficacy not measured |
 | [AI Library](https://github.com/Profkingkeys/Ai-ebooks) | 32 guides, source links, data-analysis lab, reader and individual downloads | Practical short guides; specialist review remains open |
