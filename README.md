@@ -10,6 +10,18 @@ This is also a place to learn. Explore a game, run an engineering lab, or use a 
 
 [Portfolio](https://pharmweb3.com/portfolio) · [X / Twitter](https://x.com/Profkingkeys) · [LinkedIn](https://www.linkedin.com/in/prof-king-keys-110a24229)
 
+## Rank Raid: your startup's next opponent could be one brick above you
+
+[**Play Rank Raid at rankraid.world →**](https://rankraid.world/)
+
+A 3D leaderboard on Mars for startups, founders, developers, businesses and creators. Add your website or social profile, fortify a brick, or drop a bomb to challenge a higher rank. Explore the global tower and category rankings without signing up.
+
+Built by Kingsley Umoh (@Profkingkeys). A browser game that turns product discovery into a visible contest, with direct Flutterwave payments and per-company outbound-click statistics.
+
+**Founders: bring your product. Developers: bring your latest build. Creators: bring your profile. Which brick will you take?**
+
+[Join the leaderboard](https://rankraid.world/) · [How to play](https://rankraid.world/how-to-play) · [Project story and features](RANK-RAID.md)
+
 ## Start here
 
 ### Learn to build with AI
