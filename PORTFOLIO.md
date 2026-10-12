@@ -9,6 +9,12 @@
 | [PharmWeb3](https://github.com/Profkingkeys/PharmWeb3) | Node tests, MySQL schema, AI evaluation fixtures, paper ledger, Android APK and emulator workflow | Engineering labs; provider access and production operation are separate claims |
 | [Simulation Games](https://github.com/Profkingkeys/Simulation-Games) | Usable catalog, scenario standards and contribution routes | Collection and program hub |
 
+## Prompt engineering and early ChatGPT experience
+
+**Early ChatGPT user and prompt engineer.** I develop structured prompts, iterate on AI outputs, and apply prompt-driven workflows to software, education, and product prototyping.
+
+**Historical ChatGPT conversations:** [Historical ChatGPT conversation 1](https://chatgpt.com/s/t_69b8030cbf388191b66834b41e49bb2b) · [Historical ChatGPT conversation 2](https://chatgpt.com/s/t_69b803df1b688191a46d9c204e5e0663) · [Historical ChatGPT conversation 3](https://chatgpt.com/s/t_69b80496c5f48191bf43b9f96bfb7fb9)
+
 ## What the evidence does not establish
 
 A successful software build does not prove clinical safety, learning effectiveness, trading profitability, enterprise scale or research novelty. The portfolio links the implementation and its limitations so collaborators can judge it directly.
