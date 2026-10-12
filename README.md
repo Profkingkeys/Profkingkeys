@@ -54,11 +54,15 @@ Runnable labs for AI tool routing, SaaS boundaries, MySQL, paper-trading researc
 
 [Run the labs](https://github.com/Profkingkeys/PharmWeb3#run-the-labs) · [Build and APK evidence](https://github.com/Profkingkeys/PharmWeb3/actions/workflows/ci.yml)
 
-## Prompt engineering and early ChatGPT experience
+## Prompt engineering and early AI adoption
 
-I am an **early ChatGPT user** with experience in **prompt engineering**: crafting structured instructions, refining prompts through iteration, evaluating model responses, and translating ideas into practical AI-assisted software workflows.
+I am an **early ChatGPT user and prompt engineer**, with documented engagement across the early generative-AI era. My records include an **OpenAI developer announcement received in December 2022**, OpenAI's **ChatGPT/Whisper API update in March 2023**, and participation in **Microsoft's new Bing AI preview waitlist in February 2023**, followed by a **preview access invitation in May 2023**.
 
-**Historical ChatGPT conversations:** [Historical ChatGPT conversation 1](https://chatgpt.com/s/t_69b8030cbf388191b66834b41e49bb2b) · [Historical ChatGPT conversation 2](https://chatgpt.com/s/t_69b803df1b688191a46d9c204e5e0663) · [Historical ChatGPT conversation 3](https://chatgpt.com/s/t_69b80496c5f48191bf43b9f96bfb7fb9)
+I apply that experience by crafting structured instructions, refining prompts through iteration, evaluating outputs, and turning ideas into practical AI-assisted software workflows.
+
+**Evidence you can reproduce:** [Dated OpenAI and Bing AI timeline, exact email subjects, and copy-paste Gmail searches](EARLY_AI_ADOPTION_EVIDENCE.md). An OpenAI product announcement is not proof of an exact ChatGPT signup date; the original dates of the historical chat links below remain unverified.
+
+**Historical ChatGPT conversations:** [Conversation 1](https://chatgpt.com/s/t_69b8030cbf388191b66834b41e49bb2b) · [Conversation 2](https://chatgpt.com/s/t_69b803df1b688191a46d9c204e5e0663) · [Conversation 3](https://chatgpt.com/s/t_69b80496c5f48191bf43b9f96bfb7fb9)
 
 ## How I build and lead
 
