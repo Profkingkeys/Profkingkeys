@@ -2,27 +2,50 @@
 
 # Kingsley Umoh
 
-**AI product engineer · Full-stack developer · PharmWeb3 founder · Pharmacy student**
+**Founder of PharmWeb3 · AI product engineer · Full-stack developer · Pharmacy student**
 
-I build software around problems in healthcare, education and everyday work. My focus is practical: turn a difficult question into a useful product, make its behavior understandable, and show the evidence behind the result.
+> **Healthcare access is not only a medical problem. It is also a connectivity problem, an awareness problem, and a technology problem. I'm building toward a solution that addresses all four.**
 
-This is also a place to learn. Explore a game, run an engineering lab, or use a guide to build something of your own.
+Imagine a parent who needs trustworthy health information but has limited access to a pharmacy, an unreliable internet connection, and no clear way to find professional support. That is the kind of real-world barrier guiding my work.
 
-[Portfolio](https://pharmweb3.com/portfolio) · [X / Twitter](https://x.com/Profkingkeys) · [LinkedIn](https://www.linkedin.com/in/prof-king-keys-110a24229)
+**PharmWeb3 is my flagship mission:** make healthcare information, pharmacy services and pathways to professional support easier to discover and access. The other products I build explore ways to remove the barriers around that mission—**Kryptode** for nearby offline-first connectivity, **Rank Raid** for online discovery, and **Profkingkeys World** for future immersive engagement.
 
-## Rank Raid: your startup's next opponent could be one brick above you
+These are distinct products at different stages. Their roles within PharmWeb3 are a **proposed ecosystem strategy**, not a claim that the integrations or clinical services are already live.
 
-[**Play Rank Raid at rankraid.world →**](https://rankraid.world/)
+[PharmWeb3 website](https://pharmweb3.com/) · [My portfolio](https://pharmweb3.com/portfolio) · [Ecosystem vision & evidence](PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/prof-king-keys-110a24229) · [X / Twitter](https://x.com/Profkingkeys)
 
-A 3D leaderboard on Mars for startups, founders, developers, businesses and creators. Add your website or social profile, fortify a brick, or drop a bomb to challenge a higher rank. Explore the global tower and category rankings without signing up.
+## The PharmWeb3 ecosystem: one mission, different barriers
 
-Built by Kingsley Umoh (@Profkingkeys). A browser game that turns product discovery into a visible contest, with direct Flutterwave payments and per-company outbound-click statistics.
+| Product | The problem it addresses | How it supports the PharmWeb3 mission | Current position |
+|---|---|---|---|
+| **[PharmWeb3](https://pharmweb3.com/)** · flagship | Hard-to-reach healthcare information, pharmacy services and professional support | The central healthcare experience: education, pharmacy access and responsible AI-assisted navigation are areas of development | Public website and [reviewable engineering labs](https://github.com/Profkingkeys/PharmWeb3); clinical operations and partnerships need separate validation |
+| **Kryptode** · connectivity | Nearby people and businesses lose communication and discovery opportunities when mobile data is unavailable | Proposed channel for offline health education, nearby pharmacy discovery and community information exchange | Android peer-to-peer networking product in development; multi-device reliability and the PharmWeb3 integration still need validation |
+| **[Rank Raid](https://rankraid.world/)** · visibility | New businesses and services struggle to get noticed online | A potential discovery and campaign channel that can direct attention to PharmWeb3 | Public browser product; source code is private; healthcare campaign performance has not been established |
+| **Profkingkeys World** · engagement | Digital education and brand discovery often lack immersive experiences | Planned virtual pharmacy, health-education experiences and a space to discover PharmWeb3 | Virtual-world project in development; proposed PharmWeb3 experiences are not deployed |
 
-**Founders: bring your product. Developers: bring your latest build. Creators: bring your profile. Which brick will you take?**
+**How it fits together:** Kryptode explores **access without continuous data**; Rank Raid explores **awareness and online reach**; Profkingkeys World explores **interactive education and discovery**. All three can support the **PharmWeb3 healthcare mission** without becoming substitutes for qualified medical care.
 
-[Join the leaderboard](https://rankraid.world/) · [How to play](https://rankraid.world/how-to-play) · [Project story and features](RANK-RAID.md)
+**A critical distinction:** Bluetooth and Wi-Fi peer-to-peer networking have limited range and depend on nearby compatible devices. Offline material cannot magically provide live consultations, AI inference, or up-to-date medical records without the necessary local capabilities and safeguards.
 
-## Start here
+### What I want to prove next
+
+My near-term focus is **a useful, trustworthy PharmWeb3 experience**, tested with real users and suitable professional partners—not an attempt to launch four integrated startups at once. The proposed sequence is to validate pharmacy and community needs, prove a small end-to-end service, measure engagement and referrals, then pilot Kryptode-assisted access where offline connectivity provides measurable value. Rank Raid can be tested as an acquisition channel; virtual-world engagement belongs to a later stage.
+
+Potential business directions include pharmacy software/services, institutional partnerships and appropriate sponsored health-education programmes. **These are hypotheses to validate—not claims of contracts, revenue, users or clinical outcomes.**
+
+[Read the fuller founder story and project evidence →](PORTFOLIO.md)
+
+## A live product to explore: Rank Raid
+
+[**Visit Rank Raid at rankraid.world →**](https://rankraid.world/)
+
+Rank Raid is a 3D leaderboard experience for startups, founders, developers, businesses and creators. Visitors can explore the global tower and category rankings, add a website or social profile, and interact through rank competition, fortification and raids. It demonstrates how I approach online discovery through interactive product design.
+
+The public site is available to try. **Its private source repository is intentionally not linked here.** The presence of a game and payment flow does not establish advertiser return on investment or traction for PharmWeb3.
+
+[Explore Rank Raid](https://rankraid.world/) · [How it works](https://rankraid.world/how-to-play) · [Product story](RANK-RAID.md)
+
+## Explore more of my work
 
 ### Learn to build with AI
 
@@ -36,7 +59,7 @@ Built by Kingsley Umoh (@Profkingkeys). A browser game that turns product discov
 
 [**Pharma Simulation →**](https://github.com/Profkingkeys/Pharma-Simulation)
 
-A complete browser campaign covering fictional suspension, ointment and solution dispensing workflows. A furnished lab, visible decisions, feedback, retry and independent-release checks. An educational prototype awaiting pharmacy/curriculum validation.
+A browser campaign covering fictional suspension, ointment and solution dispensing workflows. A furnished lab, visible decisions, feedback, retry and independent-release checks. An educational prototype awaiting pharmacy/curriculum validation.
 
 [Download the offline game](https://github.com/Profkingkeys/Pharma-Simulation/releases/latest/download/Pharma-Simulation.html)
 
@@ -46,11 +69,11 @@ A 3D home adventure with five healthy-habit missions: handwashing, medicine safe
 
 [Download the offline game](https://github.com/Profkingkeys/Kid-Simulation/releases/latest/download/Kid-Simulation.html) · [Explore the simulation collection](https://github.com/Profkingkeys/Simulation-Games)
 
-### Inspect the engineering
+### Inspect the public engineering
 
-[**PharmWeb3 →**](https://github.com/Profkingkeys/PharmWeb3)
+[**PharmWeb3 engineering labs →**](https://github.com/Profkingkeys/PharmWeb3)
 
-Runnable labs for AI tool routing, SaaS boundaries, MySQL, paper-trading research, telemetry and Android. Source, tests and CI make the implementation reviewable. These are engineering demonstrations, not claims of production scale or clinical deployment.
+Runnable labs for AI tool routing, SaaS boundaries, MySQL, paper-trading research, telemetry and Android. Source, tests and CI make the implementation reviewable. These are engineering demonstrations, not claims of clinical deployment or production scale.
 
 [Run the labs](https://github.com/Profkingkeys/PharmWeb3#run-the-labs) · [Build and APK evidence](https://github.com/Profkingkeys/PharmWeb3/actions/workflows/ci.yml)
 
@@ -71,7 +94,7 @@ I apply that experience by crafting structured instructions, refining prompts th
 3. **Make evidence visible.** Preserve sources, tests, limitations and a reproducible demonstration.
 4. **Improve with others.** Invite users and domain experts to challenge assumptions and guide the next release.
 
-[Leadership principles](LEADERSHIP.md) · [Portfolio evidence](PORTFOLIO.md) · [Technology map](STACK.md)
+[Leadership principles](LEADERSHIP.md) · [Portfolio evidence and vision](PORTFOLIO.md) · [Technology map](STACK.md)
 
 ## Technologies in this portfolio
 
@@ -92,6 +115,6 @@ I apply that experience by crafting structured instructions, refining prompts th
 
 ## Collaborate
 
-Open to software roles, healthcare and education projects, research tooling, technical writing, and thoughtful founder collaborations. Contributors can help with accessibility, curriculum review, scenario design, source verification and reproducible examples.
+Open to software roles, healthcare and education projects, research tooling, technical writing, and thoughtful founder collaborations. For the PharmWeb3 mission, I'm interested in learning from pharmacists, healthcare organisations, community partners, accessibility advocates and responsible AI practitioners.
 
-**Find an overlooked problem. Build something useful. Let the evidence speak.**
+**Find an overlooked problem. Build something useful. Connect it to a larger mission. Let the evidence speak.**
