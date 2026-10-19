@@ -80,6 +80,18 @@ A focused funding round or grant would help **maintain and improve the existing 
 
 PharmWeb3 aims to connect pharmacy, responsible AI and Web3 tools to improve access to advice, essential medicines and assistance—not to make blockchain or AI the headline. Research into advanced healthcare technologies is a future ambition, not an outcome promised by an early-stage access pilot.
 
+## PolyMath by ProfKingkeys: a laboratory built around a question
+
+What if a researcher could follow a promising compound through a virtual laboratory, see the questions its behaviour raises, and carry a clear record into the next real experiment?
+
+That question is driving **PolyMath**, my developing virtual research lab. As a pharmacy student and builder, I want to connect the study of plant-derived compounds with a deeper view of what happens after a substance enters the body: where it travels, how it changes, which targets it may reach, and what could happen to healthy tissue alongside cancer cells.
+
+The work already brings molecular exploration, visual research models and exportable evidence into an Android and desktop research project. I am expanding it toward connected organ and pathway studies, while keeping the difference between a measured result, a prediction and an assumption visible.
+
+My goal is to contribute to the discovery of safer cancer treatments. A useful research tool must help us find weak ideas as well as promising ones. PolyMath has not established a cancer cure, a safe human dose or clinical effectiveness; those answers require independent laboratory and clinical evidence.
+
+[Read the PolyMath story](POLYMATH.md). This public account describes the purpose and development of the project; its source and private research repository remain private.
+
 ## What an investor can inspect now
 
 | Project | Public evidence or entry point | Scope / caveat |

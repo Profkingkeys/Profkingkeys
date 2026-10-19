@@ -49,6 +49,16 @@ The public site is available to try. **Its private source repository is intentio
 
 [Explore Rank Raid](https://rankraid.world/) · [How it works](https://rankraid.world/how-to-play) · [Product story](RANK-RAID.md)
 
+## PolyMath: asking better questions in cancer research
+
+**PolyMath by ProfKingkeys** is my developing virtual research laboratory. It brings my pharmacy studies and my work as a builder into one question: how can we understand a promising compound more carefully before calling it a medicine?
+
+I want researchers to watch a research model follow a compound through absorption, metabolism, circulation and excretion, explore how it might interact with a target, and compare possible effects on cancer and healthy tissue. My motivation is personal and practical: better treatments should improve lives without making people pay for avoidable harm.
+
+The current work includes molecular exploration, visual research simulations and exportable records. My long-term ambition is to contribute to the search for safer cancer treatments. **That ambition is a research direction, not a claim that PolyMath has discovered or validated a cure.**
+
+[Read the PolyMath research story →](POLYMATH.md)
+
 ## Explore more of my work
 
 ### Learn to build with AI
