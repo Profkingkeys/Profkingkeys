@@ -14,7 +14,7 @@
 
 **Why the other tools matter:** **Kryptode** explores connectivity where mobile data is unreliable; **[Rank Raid](https://rankraid.world/)** helps businesses and services become discoverable; and **Profkingkeys World** explores immersive learning and outreach. Each is a separate product, with possible future ways to strengthen PharmWeb3's mission—not a claim that those integrations are already deployed.
 
-[Visit PharmWeb3](https://pharmweb3.com/) · [My portfolio](https://pharmweb3.com/portfolio) · [Founder story, roadmap & evidence](PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/prof-king-keys-110a24229) · [X / Twitter](https://x.com/Profkingkeys)
+[Visit PharmWeb3](https://pharmweb3.com/) · [My portfolio](https://pharmweb3.com/portfolio) · [Book a call](https://calendar.app.google/77KYPumtrbZx4zAA7) · [Founder story, roadmap & evidence](PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/prof-king-keys-110a24229) · [X / Twitter](https://x.com/Profkingkeys)
 
 ## The PharmWeb3 ecosystem: one mission, different barriers
 
@@ -128,6 +128,10 @@ I apply that experience by crafting structured instructions, refining prompts th
 [![PharmWeb3](https://github.com/Profkingkeys/PharmWeb3/actions/workflows/ci.yml/badge.svg)](https://github.com/Profkingkeys/PharmWeb3/actions/workflows/ci.yml)
 
 ## Collaborate
+
+[**Book a 30-minute conversation with me →**](https://calendar.app.google/77KYPumtrbZx4zAA7)
+
+Let's discuss AI products, software development, healthcare technology, research tools or a potential partnership. Choose a time on my booking page and share your topic and desired outcome. We'll meet on Google Meet; the joining link arrives with your calendar confirmation.
 
 Open to software roles, healthcare and education projects, research tooling, technical writing, and thoughtful founder collaborations. For the PharmWeb3 mission, I'm interested in learning from pharmacists, healthcare organisations, community partners, accessibility advocates and responsible AI practitioners.
 
