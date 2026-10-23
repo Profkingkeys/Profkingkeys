@@ -10,7 +10,7 @@ A **licensed lead pharmacist** is part of the core team. The founder reports tha
 
 **The broader ambition** is to reduce more healthcare costs through trustworthy education, partner-supported medicine vouchers, medical-bill assistance and other responsible access programmes. These are described in PharmWeb3's white paper, with expansion and funding needs distinct from the presently described free pharmacist guidance. *Free access is the commitment; universal free medicines or every category of treatment are not promises of current coverage.*
 
-[Return to my GitHub profile](README.md) · [Book a founder conversation](https://calendar.app.google/77KYPumtrbZx4zAA7) · [Explore PharmWeb3](https://pharmweb3.com/) · [Public PharmWeb3 engineering labs](https://github.com/Profkingkeys/PharmWeb3)
+[Return to my GitHub profile](README.md) · [Book a founder conversation](https://calendar.app.google/77KYPumtrbZx4zAA7) · [Investment, testing & collaboration](https://docs.google.com/forms/d/e/1FAIpQLSeYyXLzXJF0XhbcM1luC8kFGfJVhhOwaKrW1szyjTxUssd-ow/viewform?usp=publish-editor) · [Explore PharmWeb3](https://pharmweb3.com/) · [Public PharmWeb3 engineering labs](https://github.com/Profkingkeys/PharmWeb3)
 
 ## The story: one mission, several barriers
 
